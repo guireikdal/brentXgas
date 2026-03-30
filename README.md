@@ -1,6 +1,6 @@
 # Análise do Repasse do Preço do Petróleo para a Gasolina no Brasil
 
-##Autor: Guilherme Reikdal Medeiros
+## Autor: Guilherme Reikdal Medeiros
 
 ## Objetivo
 
