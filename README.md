@@ -12,12 +12,5 @@ Após a consolidação da base, foi realizada uma regressão linear simples com 
 
 O principal aprendizado foi a importância da etapa de preparação de dados, especialmente ao lidar com múltiplas fontes. A padronização e integração das bases se mostraram etapas fundamentais para viabilizar qualquer tipo de análise posterior.
 
-
-## Dados Utilizados
-
-- Preço da gasolina (Brasil) – ANP
-- Preço do petróleo (Brent) – mercado internacional
-- Taxa de câmbio (USD/BRL) – Banco Central do Brasil
-
-
+Fontes de dados: ANP, FRED e Banco Central do Brasil.
 
